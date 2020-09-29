@@ -1,0 +1,1 @@
+A simpele visual clone of the stock google homepage. It's a few px off in some places, but otherwise, looks convincing.
